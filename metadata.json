@@ -1,0 +1,6 @@
+{
+  "name": "Digital Signature Generator",
+  "description": "A responsive and highly polished digital signature generator supporting custom colors, line thickness, pen styles, undo/redo, and exports to transparent PNG and SVG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
